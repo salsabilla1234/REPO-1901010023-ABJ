@@ -1,0 +1,5 @@
+Switch Hostname: SW1, Interface Trunk: F0/1
+Switch Hostname: SW2, Interface Trunk: F0/2
+Switch Hostname: z, Interface Trunk: z
+Switch Hostname: SW1, Interface Trunk: F0/1
+Switch Hostname: SW2, Interface Trunk: F0/2
